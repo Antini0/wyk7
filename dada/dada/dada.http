@@ -1,0 +1,6 @@
+@dada_HostAddress = http://localhost:5185
+
+GET {{dada_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
